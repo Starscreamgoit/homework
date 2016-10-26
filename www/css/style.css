@@ -1,0 +1,52 @@
+    body {
+      margin: 0% 30%;
+    }
+
+    /* HEADER */
+    .header {
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    /* SIDEBAR */
+    img {
+      padding: 0% 20%;
+      height: 200px;
+    }
+
+
+    .image p {
+      color: grey;
+      font-size: 14px;
+    }
+
+    /* CONTENT */
+    .info ul {
+      font-size: 12px;
+    }
+
+    .tel p {
+      font-size: 14px;
+      padding-left: 30px;
+    }
+
+    a {
+      color: blue;
+      font-size: 14px;
+      font-style: italic;
+      padding-left: 30px;
+    }
+
+    /* FOOTER */
+    .footer p {
+      font-size: 12px;
+      padding-left: 30px;
+    }
+
+    .first {
+      opacity: 0.75;
+    }
+
+    .line {
+      opacity: 0.25;
+    }
